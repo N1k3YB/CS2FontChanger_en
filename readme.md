@@ -1,7 +1,7 @@
 [РУ инструкция](https://github.com/N1k3YB/CS2FontChanger_ru)
 
 # CS2 Font Changer
-![preview][prev.png]
+![preview](prev.png)
 
 ## Overview
 CS2 Font Changer is a graphical utility for **modifying font configurations** in *Counter-Strike 2 (CS2)*, allowing users to easily replace the game's default font with a custom one of their choice. This tool uses **PyQt6** for its interface and performs modifications in the CS2 game directory to configure `fonts.conf` and `42-repl-global.conf` files with the specified font.
