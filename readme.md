@@ -14,13 +14,15 @@ CS2 Font Changer is a graphical utility for **modifying font configurations** in
 
 ## Installation and Usage
 1. **Download the Application**:
-    * [Download the archive](https://drive.google.com/file/d/1j6QU6lSyOjNqfgWeuWp6epZYKiOmjiQN/view?usp=sharing) > Extract to a convenient folder > Launch the application
+    * A: Download the archive with a self-contained (soon) or [integrated](https://drive.google.com/file/d/1SAlh9CpcLLgq2wO54OE4OmYDKGN3TbuV/view?usp=sharing) application
+    * B: Extract to a convenient folder
+    * C: Launch the application
 
 2. **Select CS2 Path** (if not automatically detected):
    * If the CS2 path isn't found automatically, select the directory manually
 
 3. **Choose Font**:
-   * Click **"Select .ttf/.otf file"** to choose a font file from your computer
+   * Click **"Choose Font"** to choose a font file from your computer
 
 4. **Apply Font**:
    * Click **"Apply Font"** to change CS2 font settings
